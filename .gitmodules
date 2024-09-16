@@ -1,0 +1,3 @@
+[submodule "arry"]
+	path = arry
+	url = git@github.com:shiitake05/TRPL.git
